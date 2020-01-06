@@ -13,7 +13,9 @@
 >OS-ubuntu
 
 ## TECHNOLOGIES USED
->Python 3.8(pyperclip)
+>Python 3.8
+>Flask
+>Heroku
 
 ## CONTACT INFORMATION
 For comments,addition information email at japhethmwania99@gmail.com
