@@ -2,7 +2,7 @@
 >NEWS HIGHLIGHT
 
 ## PROJECT DESCRIPTION
->Application that can be used  to store manage and generate passwords.
+>Application that shows all the news highlight from sports,business,entertainment,technology and general news.
 
 ## SETUP INSTRUCTIONS
 >Text editor - atom
