@@ -15,7 +15,7 @@ class TestArticles(unittest.TestCase):
         self.assertTrue(isinstance(self.new_article,Articles))
     
     def test_to_check_instance_variables(self):
-        self.assertEquals(self.new_article.author,'Richard')
+        self.assertEquals(self.new_article.author,'Jeffacy')
         self.assertEquals(self.new_article.title,'Tech is great')
         self.assertEquals(self.new_article.description,'Advanced technology improving life')
         self.assertEquals(self.new_article.url,'https://google.com')
