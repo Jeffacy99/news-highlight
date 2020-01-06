@@ -23,4 +23,4 @@ For comments,addition information email at japhethmwania99@gmail.com
 ## LICENSE AND COPYRIGHT
 License used is <a href="https://choosealicense.com/licenses/mit/">MIT License</a> <br>
 
-Copyright (c) **Japheth Mwania (JK Mwania) November 2019**
+Copyright (c) **Japheth Mwania (JK Mwania) January 2020**
