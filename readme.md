@@ -1,5 +1,5 @@
 # PROJECT NAME
->PASSWORD LOCKER
+>NEWS HIGHLIGHT
 
 ## PROJECT DESCRIPTION
 >Application that can be used  to store manage and generate passwords.
