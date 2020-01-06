@@ -9,7 +9,7 @@ class TestArticles(unittest.TestCase):
         '''
         Test class to run before other tests
         '''
-        self.new_article = Articles('Richard','Tech is great','Advanced technology improving life','https://google.com','https://google.com/images','2018-05-12T13:31:03Z')
+        self.new_article = Articles('Jeffacy','Tech is great','Advanced technology improving life','https://google.com','https://google.com/images','2018-05-12T13:31:03Z')
     
     def test_instance(self):
         self.assertTrue(isinstance(self.new_article,Articles))
